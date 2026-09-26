@@ -32,7 +32,7 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-## Selected Publications (mirrored from [publications](/publications))
+## Publications (also listed on the [publications](/publications) subpage)
 
 **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** *(First Author, 2025)*  
 Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
